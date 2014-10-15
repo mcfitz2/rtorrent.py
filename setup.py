@@ -5,7 +5,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = "rtorrent.py",
+    name = "rtorrent",
     version = "0.0.0",
     author = "Micah Fitzgerald",
     author_email = "mcfitz2@gmail.com",
