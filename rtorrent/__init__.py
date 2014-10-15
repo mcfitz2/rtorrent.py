@@ -1,4 +1,4 @@
-from lib.xmlrpc import SCGIServerProxy
+from xmlrpc import SCGIServerProxy
 import fields
 import math
 
